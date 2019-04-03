@@ -1,4 +1,4 @@
-# Solitaire made in Flutter
+# Solitaire made in Flutter - (dan's placeholder for potential cribbage game)
 
 The classic game of Solitaire made entirely on Flutter.
 APK Link : - https://drive.google.com/open?id=1p_D1qwMVPyzeVimQFVknSckAUpJNSgun. No link to test on iOS because I don't have a Mac yet :P.
